@@ -1,0 +1,4 @@
+1. Create program that generate txt file from allplan (based on allplan uni files)
+ - txt file have to be generated according to txt syntax
+ - take as many info from uni as You can (reinforcement, element type, accesories)
+2. Authenticator
